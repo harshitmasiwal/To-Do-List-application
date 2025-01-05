@@ -27,6 +27,6 @@ This is a **responsive single-page To-Do List application** built as part of the
    git clone <repository_url>
 2. Open index.html in your browser to view the application.
 
-You can check out the live version of the project here: 
+You can check out the live version of the project here: https://harshitmasiwal.github.io/To-Do-List-application/
 
 
